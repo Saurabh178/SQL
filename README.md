@@ -1,0 +1,1 @@
+# Used for practice SQL
